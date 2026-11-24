@@ -10,7 +10,7 @@
 | [② NewMoon](Source_Game②_NewMoon/) | 浮遊物の衝突を力積で自作した、無重力ステルスのミニゲーム | UE5, C++, Blueprint |
 | [③ BlackHole-Simulation](Portfolio_BlackHole-Simulation/) | 光の軌道をRK4で計算し、ブラックホールの影と降着円盤の見え方を再現 | C++ |
 
-![ブラックホールのシミュレーション](<img width="520" height="520" alt="強い重力場_銀河_円盤あり" src="https://github.com/user-attachments/assets/e91d5c4e-ea2b-4a59-addf-655cd281d6d0" />)
+(<img width="520" height="520" alt="強い重力場_銀河_円盤あり" src="https://github.com/user-attachments/assets/e91d5c4e-ea2b-4a59-addf-655cd281d6d0" />)
 
 ## 各作品の見どころ
 
