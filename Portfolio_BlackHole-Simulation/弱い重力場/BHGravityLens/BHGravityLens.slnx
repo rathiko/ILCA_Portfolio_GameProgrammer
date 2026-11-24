@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BHGravityLens/BHGravityLens.vcxproj" Id="5849a17d-245f-498d-8d6a-4ae58a1d3f67" />
+</Solution>
