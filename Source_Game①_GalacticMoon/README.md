@@ -12,10 +12,10 @@
 
 | ファイル | 内容 |
 | --- | --- |
-| [BHOrbitPlayerComponent](Source_Game①_GalacticMoon/GalacticMoon/BHOrbitPlayerComponent.cpp) | ブラックホール周辺の軌道を、固定タイムステップとRK4で計算 |
-| [BlackHoleComponent](Source_Game①_GalacticMoon/GalacticMoon/BlackHoleComponent.cpp) | 相対論的な補正を含む加速度の計算 |
-| [GravityPawnMovement](Source_Game①_GalacticMoon/GalacticMoon/GravityPawnMovement.cpp) | 標準の移動処理を拡張し、移動の計算前に惑星の重力を加える |
-| [AsteroidSpawner](Source_Game①_GalacticMoon/GalacticMoon/AsteroidSpawner.cpp) | Instanced Static Meshによる大量の障害物の配置と管理 |
+| [BHOrbitPlayerComponent](Source_Game①_GalacticMoon/SpaceShooting/BHOrbitPlayerComponent.cpp) | ブラックホール周辺の軌道を、固定タイムステップとRK4で計算 |
+| [BlackHoleComponent](Source_Game①_GalacticMoon/SpaceShooting/BlackHoleComponent.cpp) | 相対論的な補正を含む加速度の計算 |
+| [GravityPawnMovement](Source_Game①_GalacticMoon/SpaceShooting/GravityPawnMovement.cpp) | 標準の移動処理を拡張し、移動の計算前に惑星の重力を加える |
+| [AsteroidSpawner](Source_Game①_GalacticMoon/SpaceShooting/AsteroidSpawner.cpp) | Instanced Static Meshによる大量の障害物の配置と管理 |
 
 ### BHOrbitPlayerComponent
 - **固定タイムステップ**:経過時間を蓄積し、一定の間隔で計算を進めることで、フレームレートが変わっても同じ軌道になるようにしています
