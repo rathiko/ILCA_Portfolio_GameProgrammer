@@ -10,7 +10,7 @@
 
 ## 見てほしいコード
 
-[ZeroGMotionComponent](Source/NewMoon/ZeroGMotionComponent.cpp)
+[ZeroGMotionComponent](Source_Game②_NewMoon/NewMoon/ZeroGMotionComponent.cpp)
 
 物理エンジンを使わず、浮遊物の運動と衝突を自作したコンポーネントです。
 
